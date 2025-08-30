@@ -100,7 +100,8 @@ Calls for responsible AI development and regulation.
 Generative AI marks a paradigm shift in computing, blending creativity with intelligence. Transformers and LLM scaling have unlocked emergent abilities that drive innovation across industries. Future directions involve making models more efficient, interpretable, and ethically aligned, ensuring that the benefits of generative AI are equitably distributed.
 
 ## Output
-[Gen.AI report.pdf](https://github.com/user-attachments/files/22050002/Gen.AI.report.pdf)
+
+[Gen.AI.report.pdf](https://github.com/user-attachments/files/22057139/Gen.AI.report.pdf)
 
 ## Result
 Thus, Comprehensive Report on the Fundamentals of Generative AI and Large Language Models was created. PDF is available for download and review.
